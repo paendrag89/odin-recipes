@@ -1,0 +1,1 @@
+Learning command line still and learning how github works, once completed will demonstrate how to stage changes and commit with messages attached to remember why they were commited.
